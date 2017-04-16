@@ -64,6 +64,10 @@ h3, h4{
 	font-size: 11pt;
 }
 
+#contacts a{
+	color: #F7F7FF;
+}
+
 img{
 	border-radius: 50%;
 	background: #ffc966;
@@ -124,4 +128,8 @@ p ~ .head{
 .date{
 	color: #E15138;
 	font-size: 15px;
+}
+
+a {
+	text-decoration: none;	
 }
