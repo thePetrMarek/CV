@@ -2,12 +2,12 @@ body{
 	font-family: Arial;
 	margin: 0px;
 	margin-bottom: 12pt;
-	font-size: 15px;
-	background: #F7F7FF;
+	font-size: 14px;
+	/*background: #F7F7FF;*/
 }
 
 p{
-	font-size:15px;
+	font-size:14px;
 }
 
 header{
@@ -74,7 +74,7 @@ img{
 	border: solid;
 	border-color: #2B3B45;
 	width: 100pt;
-	margin-right: 40pt;
+	margin-right: 20pt;
 }
 
 h2{
