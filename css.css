@@ -86,7 +86,7 @@ h2{
 }
 
 .bigger-margin-top{
-	margin-top: 30pt;
+	margin-top: 20pt;
 }
 
 .head{
@@ -105,7 +105,7 @@ h2{
 }
 
 p ~ .head{
-	margin-top: 30pt; 
+	margin-top: 15pt; 
 }
 
 #skills{
